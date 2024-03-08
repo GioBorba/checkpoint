@@ -1,0 +1,41 @@
+.card {
+    border: 1px solid black;
+    width: 20vw ;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 7px;
+    border-radius: 2%;
+    box-shadow: black 2px 2px 20px;
+    
+  }
+  
+  .foto {
+    width: 80%;
+    box-shadow: black 2px 2px 3px;
+    border-radius: 2%;
+    height: 85%
+    
+    
+  
+  }
+  
+  .infos {
+    margin-top: 10px;
+    font-size: larger;
+    font-weight: bolder;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+
+  }
+  
+  .album {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    margin-right: 80px;
+    margin-left: 80px;
+  }
+  
+  

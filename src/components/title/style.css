@@ -1,0 +1,7 @@
+.titulo {
+    display: flex;
+    justify-content: center;
+    font-family: cursive;
+    font-size: larger;
+    color: white;
+  }

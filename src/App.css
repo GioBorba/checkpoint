@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vw;
+  background-image: linear-gradient(180deg, black, blueviolet);
+  background-size: cover;
+  overflow: hidden;
+}
+
+.header {
+  padding: 15px;
+  width: 100%; 
+}

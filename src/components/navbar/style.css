@@ -1,0 +1,25 @@
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+   
+    
+
+}
+
+.topics {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-family: cursive;
+    margin-top: 24px;
+    
+}
+
+.topics:hover {
+    color: purple;
+    text-decoration: underline;
+    transition: 0.7s;
+    
+}
+
